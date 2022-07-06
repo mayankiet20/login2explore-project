@@ -23,8 +23,12 @@
 * Multi-mode database - One solution to a variety of data
 
 ## Release History
-
-
+* 0.0.0
+    * The first proper release
+* 0.0.1
+    * Work in progress
+* 0.0.2
+    * CHANGE: Update docs (module code remains unchanged)
 
 ### Screenshots:
 
