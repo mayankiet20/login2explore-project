@@ -25,7 +25,7 @@
 ### Screenshots:
 
 
-![Form Page]([https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG](https://github.com/mayankiet20/login2explore-project/blob/main/html%20form.png))
+![Form Page](https://github.com/mayankiet20/login2explore-project/blob/main/html%20form.png)
 
-![Visualize]([https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG](https://github.com/mayankiet20/login2explore-project/blob/main/resultweb.png))
+![Visualize](https://github.com/mayankiet20/login2explore-project/blob/main/resultweb.png)
 
